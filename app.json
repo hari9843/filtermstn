@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/harigih/THOR-V3",
-    "repository": "https://github.com/harigih/THOR-V3",
+    "website": "https://github.com/hari9843",
+    "repository": "https://github.com/hari9843",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
